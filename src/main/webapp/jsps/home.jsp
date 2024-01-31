@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Sri Satya Sai (Dist),Andhra Pradesh,India </h1>
+<h1 align="center"> Prophet Muhammad (Sal Allahu Alaihi Wasallam) is venerated by Muslims as the final prophet of Islam, but his influence extends far beyond the boundaries of religion. His life and teachings continue to inspire people from diverse backgrounds and beliefs to strive for moral excellence, compassion, justice, and humility </h1>
 <h1 align="center"> - Webhook demo.. New DevOps with AWS  Batch will start in Jan 2024 at 7.30 PM IST - Contact 9980923226/9980923216 or devopstrainingblr@gmail.com</h1> 
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios. this great</h1>
 <hr>
